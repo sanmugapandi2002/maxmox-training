@@ -1,0 +1,47 @@
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.csproj.AssemblyReference.cache
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.AssemblyInfoInputs.cache
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.AssemblyInfo.cs
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.csproj.CoreCompileInputs.cache
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\appsettings.json
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Simple Auth System Project.exe
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Simple Auth System Project.deps.json
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Simple Auth System Project.runtimeconfig.json
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Simple Auth System Project.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Simple Auth System Project.pdb
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\MySql.Data.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\ZstdNet.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\scopedcss\bundle\Simple Auth System Project.styles.css
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.csproj.CopyComplete
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\refint\Simple Auth System Project.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.pdb
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\Simple Auth System Project.genruntimeconfig.cache
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\obj\Debug\net6.0\ref\Simple Auth System Project.dll
+C:\Maxmoc\Web_Application\Simple Auth System Project\Simple Auth System Project\bin\Debug\net6.0\Dapper.dll
